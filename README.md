@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/300x300.png?text=Anime+Image" alt="Anime Profile" width="200px">
+  <img src="[https://via.placeholder.com/300x300.png?text=Anime+Image](https://files.catbox.moe/a7qc73.jpg)" alt="Anime Profile" width="200px">
   <h1>Halo! Saya <span style="color:#6a0dad;">Nazand Coder</span> 👋</h1>
   <p>🚀 Pemula yang belajar membuat <b>Bot WhatsApp</b> menggunakan <b>Node.js</b> & selalu haus akan ilmu baru!</p>
 </div>
