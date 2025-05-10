@@ -1,12 +1,12 @@
 <div align="center">
-  <h1>Halo! Saya <span style="color:#6a0dad;">Nazand Coder</span> 👋</h1>
+  <h1>Halo! Saya <span style="color:#6a0dad;">Xyzan Coder</span> 👋</h1>
   <p>🚀 Pemula yang belajar membuat <b>Bot WhatsApp</b> menggunakan <b>Node.js</b> & selalu haus akan ilmu baru!</p>
 </div>
 
 ---
 
 ## 📌 Tentang Saya
-Saya **Nazand Coder**, seorang pemula yang sedang belajar dunia **programming**, terutama di bidang **bot WhatsApp** dengan **Node.js**.  
+Saya **Xyzan Coder**, seorang pemula yang sedang belajar dunia **programming**, terutama di bidang **bot WhatsApp** dengan **Node.js**.  
 
 Saya percaya bahwa belajar coding adalah perjalanan yang seru dan penuh tantangan. Tujuan saya adalah membangun bot yang bermanfaat dan belajar lebih banyak teknologi baru sambil bersenang-senang!
 
